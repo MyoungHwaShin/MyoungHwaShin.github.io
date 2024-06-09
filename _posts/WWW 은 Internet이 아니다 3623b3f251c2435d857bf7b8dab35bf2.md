@@ -1,0 +1,34 @@
+# WWW 은 Internet이 아니다.
+
+![[https://blogthinkbig.com/internet-and-the-world-wide-web/](https://blogthinkbig.com/internet-and-the-world-wide-web/) ](WWW%20%E1%84%8B%E1%85%B3%E1%86%AB%20Internet%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A1%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1%203623b3f251c2435d857bf7b8dab35bf2/internet-y-la-web-1.webp)
+
+[https://blogthinkbig.com/internet-and-the-world-wide-web/](https://blogthinkbig.com/internet-and-the-world-wide-web/) 
+
+### WEB  / WWW = **하이퍼텍스트 문서로 구성된 거대한 정보 공간**
+
+90년 팀 버너스리가 [**HTML**](https://www.notion.so/6cf300dc5ede40b882b30ba5c66f2cfb?pvs=21)(HyperText Markup Language)과 **HTTP**(HyperText Transfer Protocol)를 기반으로 텍스트와 링크를 담은 첫 번째 웹 페이지를 생성하고 이를 서버에 호스팅했다. 
+
+당시 웹은 단순한 텍스트 기반의 인터페이스였지만, 정보를 공유하고 하이퍼 링크를 통해 다른 페이지로 이동할 수 있는 혁신적인 개념을 포함하고 있었다.
+
+1991년 웹 브라우저인 ***WorldWideWeb(WWW)***이 개발되었고, **탐색**할 수 있게 되었다. (!!!) 이후로 웹은 급속도로 발전하였고, 그 기간 동안 웹의 형태와 기술은 계속 발전하면서 우리가 현재 알고 있는 형태의 동적이고 인터랙티브한 웹을 구축하게 되었다.
+
+Web 1.0 - Read - 전에 쓰던 거
+
+Web 2.0 -Read/Write -지금 ing
+
+Web 3.0 - Read/Write/Open/Own - 아직  넘어가는 중 (NFT,메타버스,탈중앙화)
+
+> *“웹 1.0이 문서를 편집하는 **한 명의 사용자**라면 웹 2.0은 문서를 **편집하는 사람들의 그룹**이고, 웹 3.0은 문서 외부에서 **데이터를 생성하는 사람들의 그룹**입니다.” –Lew Daniels, Medium.com*
+> 
+
+웹을 만들다 보니까 중구난방에 사용자 경험도 다 다르고 플랫폼 호환도 안되고 그런 시기를 타개하고자 웹표준(Web Standards)이 등장했다.
+
+### Internet = 네트워크 시스템 집합
+
+인터넷은 전 세계의 컴퓨터 네트워크를 연결하는 거대한 네트워크 시스템, 네트워크의 집합을 말한다. 물리적으로 무선 연결을 통해 전 세계인들끼리 데이터와 정보를 주고 받을 수 있도록 한다.
+
+주요 프로토콜은 TCP/IP(Transmission Control Protocol/Internet Protocol)로, 이를 통해 데이터가 안정적으로 전송된다. 
+
+인터넷은 다양한 서비스와 애플리케이션(이메일, 파일 전송, 원격 로그인 등)을 제공하며, 그 중 하나가 월드 와이드 웹(WWW)인 것이다. 
+
+웹이 안 될때 보통 뭐라고 하는가 **‘엄마 ! 인터넷 끊겼나봐 안되는데 ?’** 라고 하듯 인터넷이라는 네트워크 집합이 끊어지면 웹도 bye bye다.
