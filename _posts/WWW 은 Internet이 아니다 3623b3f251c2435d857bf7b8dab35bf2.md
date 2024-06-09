@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "WWW 은 Internet이 아니다."
+---
+
 # WWW 은 Internet이 아니다.
 
 ![[https://blogthinkbig.com/internet-and-the-world-wide-web/](https://blogthinkbig.com/internet-and-the-world-wide-web/) ](WWW%20%E1%84%8B%E1%85%B3%E1%86%AB%20Internet%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A1%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1%203623b3f251c2435d857bf7b8dab35bf2/internet-y-la-web-1.webp)
