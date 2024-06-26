@@ -1,16 +1,16 @@
 main:
   - title: "Quick-Start Guide"
-    url: https://MyoungHwaShin.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /docs/quick-start-guide/
   - title: "Posts"
-    url: /year-archive
+    url: /docs/year-archive
   - title: "Categories"
-    url: /categories
+    url: /docs/categories
   - title: "Tags"
-    url: /tags
+    url: /docs/tags
   - title: "Pages"
-    url: /page-archive
+    url: /docs/page-archive
   - title: "Collections"
-    url: /collection-archive
+    url: /docs/collection-archive
   - title: "External Link"
     url: https://google.com
 
