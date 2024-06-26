@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "명화"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/smh.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Never loose"
   location         : "Gurisi"
   email            :
