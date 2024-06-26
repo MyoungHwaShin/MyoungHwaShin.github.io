@@ -23,13 +23,13 @@ main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
   - title: "About"
-    url: /about/
+    url: /docs/about/
   - title: "Sample Posts"
-    url: /year-archive/
+    url: /docs/year-archive/
   - title: "Sample Collections"
-    url: /collection-archive/
+    url: /docs/collection-archive/
   - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+    url: /docs/terms/
 
 
 # documentation links
