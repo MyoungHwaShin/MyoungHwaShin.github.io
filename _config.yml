@@ -15,13 +15,14 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+
 locale                   : "ko-KR"
-title                    : "SMH1101"
+title                    : "SMH1101's Everyday"
 future: true
-title_separator          : "-"
-subtitle                 : "오늘도 성장+"
+title_separator          : "&#124;"
+subtitle                 : 
 name                     : "SMH1101"
-description              : "Never loose"
+description              : "SMH1101's Everyday"
 url                      : "https://SMH1101.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
