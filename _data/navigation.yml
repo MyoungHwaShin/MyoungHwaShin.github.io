@@ -1,34 +1,15 @@
 # main links
 main:
   - title: "Home"
-    url: "https://smh1101.github.io/"
+    url: https://smh1101.github.io/ # 블로그 HOME 바로가기
 
   - title: "About"
-    url: /docs/about/
+    url: /about/ #_pages/about.md 연결
 
-#  - title: "GitHub"
- #   url: https://github.com/SMH1101
+  - title: "GitHub"
+    url: https://github.com/SMH1101 # 깃허브 바로가기 (본인 깃허브로 변경)
 
-  # - title: "Projects"
-  #   url: /projects/
 
+  # 카테고리 기능이 필요하면 활성화 하기 (_pages/categories-archive.md 연결)
   # - title: "Categories"
   #   url: /categories/
-
-# sidebar navigation (categories)
-# 2022.02.15 sidebar update : simple ver.
-categories:
-  - title: "C/C++"
-    url: /categories/c-cpp/
-  - title: "Python"
-    url: /categories/python/
-  - title: "Algorithm"
-    url: /categories/algorithm/
-  - title: "Web"
-    url: /categories/web/
-  - title: "Git"
-    url: /categories/git/
-  - title: "GitHub Blog"
-    url: /categories/github-blog/
-  - title: "Machine Learning"
-    url: /categories/machine-learning/
