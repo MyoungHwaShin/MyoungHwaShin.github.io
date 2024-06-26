@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Home"
-    url: https://smh1101.github.io/
+    url: "https://smh1101.github.io/"
 
   - title: "About"
-    url: /about/
+    url: /docs/about/
 
 #  - title: "GitHub"
  #   url: https://github.com/SMH1101
