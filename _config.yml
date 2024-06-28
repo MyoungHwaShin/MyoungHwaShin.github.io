@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Ming's"
   avatar           :  "/assets/images/smh.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Follow your *heart**"
+  location         : "Heaven"
   email            :
   links:
     - label: "Email"
